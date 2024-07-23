@@ -28,7 +28,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" align="left" width="40" height="60"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" align="left" width="40" height="60"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="Gulp" align="left" width="40" height="60"/> 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 ### Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" align="left" width="40" height="60"/>      
