@@ -4,7 +4,8 @@
 
 - 🇺🇦 FrontEnd developer from Ukraine
 - 🌱 I’m currently learning **React, Redux, TypeScript**
-- 🗂️ All my projects are available in [repositories](https://github.com/lozovan?tab=repositories)
+- 🗂️ My projects are available in [repositories](https://github.com/lozovan?tab=repositories)
+- 🌐 My website are available in [link](https://lozovan.com.ua/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lozovan&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Most used languages"/>
 
@@ -59,6 +60,6 @@
  - [Skype](https://join.skype.com/invite/kaDlF3hel3Zj)
 
  ## GitHub stats
-![](https://komarev.com/ghpvc/?username=lozovan&label=PROFILE+VIEWS&style=flat&color=fd9900)
-
 <img src="https://github-readme-stats.vercel.app/api?username=lozovan&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+<br/><br/>
+![](https://komarev.com/ghpvc/?username=lozovan&label=PROFILE+VIEWS&style=flat&color=fd9900)
