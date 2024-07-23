@@ -59,6 +59,7 @@
  - [Telegram](https://t.me/Lozvit)
 
  ## GitHub stats
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=lozovan&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-<br/><br/>
+
 ![](https://komarev.com/ghpvc/?username=lozovan&label=PROFILE+VIEWS&style=flat&color=fd9900)
