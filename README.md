@@ -57,7 +57,6 @@
  - 📬 You can write to me at **vitalulozovan@gmail.com**
  - [LinkedIn](https://www.linkedin.com/in/vitalii-lozovan-15336b184/)
  - [Telegram](https://t.me/Lozvit)
- - [Skype](https://join.skype.com/invite/kaDlF3hel3Zj)
 
  ## GitHub stats
 <img src="https://github-readme-stats.vercel.app/api?username=lozovan&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
