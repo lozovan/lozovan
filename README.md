@@ -12,7 +12,7 @@
 ## 💻 Work Experience
 | Company | Years | Position |
 | :------------ | :----------- |  :----------- |
-| Hamcom GmbH | 2021-2025 | ---------- | 
+| Frontend | 2021-2025 | ---------- | 
 
 ## 🔨 Skills
  
