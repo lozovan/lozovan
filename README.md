@@ -10,9 +10,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lozovan&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Most used languages"/>
 
 ## 💻 Work Experience
-| Company | Years | Position |
-| :------------ | :----------- |  :----------- |
-| Frontend | 2021-2025 | ---------- | 
+| Position | Years | 
+| :------------ | :----------- |  
+| Frontend | 2021-2025 |  
 
 ## 🔨 Skills
  
