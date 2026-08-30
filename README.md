@@ -7,8 +7,6 @@
 - 🗂️ My projects are available in [repositories](https://github.com/lozovan?tab=repositories)
 - 🌐 My website are available in [link](https://lozovan.com.ua/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lozovan&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Most used languages"/>
-
 ## 💻 Work Experience
 | Position | Years | 
 | :------------ | :----------- |  
